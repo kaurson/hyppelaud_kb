@@ -1,6 +1,6 @@
 
 
-1. pyenvi installimine: brew install pyenv
+1. pyenvi installimine: brew install pyenv 
 2. Võimalike versioonide valik: pyenv install -l
 3. Brewiga pythoni installimine: brew install  3.10.12 <-(pythoni versiooni number)
 4. Pyenvi pythoni installimine: pyenv install  3.10.12
